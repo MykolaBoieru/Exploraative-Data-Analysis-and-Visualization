@@ -4,4 +4,4 @@ This project was created as a part of my further education as Data Analyst at IU
 
 The are two files in the folder. In the first one can be found a code written in Python in a Jupyter Notebook. There is also written assignement on base of the code.
 
-Grade: 81/100
+Grade: 85/100
